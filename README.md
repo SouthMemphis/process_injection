@@ -1,2 +1,2 @@
 # process_injection
-Basic PE code on c++, without EV/EDR bypass, tested on Win10
+Basic PE code on c++, without AV/EDR bypass, tested on Win10
